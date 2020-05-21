@@ -6,3 +6,20 @@ Study about json web tokens in nodejs.
 - Validate token
 - Regenerate expired token
 - Revoke token
+
+## Steps
+
+### Install
+````
+npm install
+````
+
+### Run
+````
+npm start
+````
+
+### Test
+````
+npm test
+````
